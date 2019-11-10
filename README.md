@@ -23,6 +23,6 @@ Python Environment can be set up based on the following instructions:
 ## Instructions:
 
 Once the environment is set, we can run the Navigation.ipynb file. model.py contains neural network class used as a Q function and file dqn_agent.py contains agent code.
-The pythin notebook can guide us to the results.
+The python notebook can guide us to the results.
        
 
